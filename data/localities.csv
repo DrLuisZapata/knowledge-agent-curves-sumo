@@ -1,0 +1,48 @@
+localidad,tipo,km,distancia_m,radio_m,origen,marcada
+Villanueva,town,0.0,1368,1500,OSM,True
+Tenango,hamlet,6.3,69,300,OSM,True
+Zapoqui,hamlet,28.0,191,300,OSM,True
+Crucero de San Luis,hamlet,50.6,29,300,OSM,True
+La Junta de los Ríos,hamlet,53.9,31,300,OSM,True
+San Francisco,hamlet,55.4,55,300,OSM,True
+San José Tenanguillo,village,57.1,636,700,OSM,True
+Cruz Verde,hamlet,57.6,76,300,OSM,True
+Tierra Blanca,hamlet,59.5,275,300,OSM,True
+Tabasco,town,63.9,1015,1500,OSM,True
+El Guamúchil,hamlet,63.9,133,300,OSM,True
+Los Simones (Rancho de los Burros) [Rancho],hamlet,64.1,173,300,OSM,True
+Huanusco,village,76.5,3,700,OSM,True
+Arroyo Hondo (Arroyo del Chapopote),hamlet,88.8,41,300,OSM,True
+Colonia Santa Cecilia,village,91.3,332,700,OSM,True
+Colonia Unión Obrera,village,92.0,380,700,OSM,True
+Colonia SARH,hamlet,93.8,179,300,OSM,True
+Fraccionamiento Mesa de Enmedio,hamlet,94.0,148,300,OSM,True
+Jalpa,town,94.9,1193,1500,manual,True
+Fraccionamiento Solidaridad (El Fanfarrón),hamlet,95.8,172,300,OSM,True
+Don Martín [Rancho],hamlet,99.1,28,300,OSM,True
+Media Luna,hamlet,114.8,173,300,OSM,True
+El Tule,village,115.2,99,700,OSM,True
+Los Llamas (San Isidro),village,115.8,61,700,OSM,True
+San Miguel Apozol,village,116.5,699,700,manual,True
+Apozol,town,120.5,218,1500,OSM,True
+Laguna del Carretero,village,13.2,3857,700,OSM,False
+El Uncidero (El Refugio),village,35.3,3366,700,OSM,False
+Tayahua,town,37.8,2701,1500,OSM,False
+Tayahua,village,37.8,2701,700,manual,False
+Francisco Villa (El Caballete),village,45.0,3369,700,OSM,False
+Santiago el Chique (El Chique),village,47.3,876,700,OSM,False
+San Luis de Custique,village,50.2,732,700,OSM,False
+San Luis de Custique,village,50.2,732,700,manual,False
+Tenanguillo,village,58.0,724,700,OSM,False
+Ciénega de Arriba,village,59.2,1033,700,OSM,False
+Huiscolco,village,64.0,3540,700,OSM,False
+Ciénega de Abajo,village,70.8,1887,700,OSM,False
+Arellanos,village,75.3,2077,700,OSM,False
+Teocaltichillo,village,87.4,2573,700,OSM,False
+San Francisco (El Tecolote),village,89.0,1142,700,OSM,False
+Los Santiagos,village,89.4,1025,700,OSM,False
+Chalchisco de Abajo (San Rafael),village,91.9,3108,700,OSM,False
+Jalpa,town,93.9,1758,1500,OSM,False
+San Miguel (Atotonilco),village,116.6,794,700,OSM,False
+La Tiricia,village,120.5,3665,700,OSM,False
+Benito Juárez (El Rescoldo),village,120.5,1454,700,OSM,False
