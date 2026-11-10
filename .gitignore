@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+runs/
+exp*/
+final_results/
+*.net.xml
+*.osm
+!data/*.osm
+.DS_Store
